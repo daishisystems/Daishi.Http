@@ -1,2 +1,1 @@
-# Daishi.Http
-HTTP metadata-parsing toolkit
+***Description to follow soon...***
